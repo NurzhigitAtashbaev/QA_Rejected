@@ -1,7 +1,0 @@
-
-MYSQL_USER = 'root'
-MYSQL_PASSWORD = 'Nurchik_17'
-MYSQL_HOST = 'localhost'
-MYSQL_DATABASE = 'qa_database'
-
-TOKEN = '5747649506:AAF2wELX2Y2GmAEv5x5W_0hrqvV4xTmYzKE'
